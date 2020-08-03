@@ -1,7 +1,7 @@
 ---
-date: 2019-08-08T22:42:09.000+00:00
+date: 2019-08-08T22:42:09Z
 title: Sunflower Sutra
-author: Allen Ginsberg
+author: Christian Rodriguez
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
 ---
