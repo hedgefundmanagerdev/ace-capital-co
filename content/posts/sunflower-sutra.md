@@ -1,6 +1,6 @@
 ---
 date: 2020-08-01T22:42:09Z
-title: Sunflower Sutra
+title: The Love remains
 author: Christian Rodriguez
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
